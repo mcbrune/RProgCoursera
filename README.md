@@ -1,4 +1,4 @@
-RProgCoursea
+RProgCoursera
 ============
 
-R Programming Assignments from Coursea
+R Programming Assignments from Coursera
